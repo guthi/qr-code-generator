@@ -33,12 +33,12 @@ Este é um aplicativo web simples feito com **Flask** que permite gerar QR Codes
 
 ## 📂 Estrutura do Projeto
     qr-code-generator/
-├── app.py
-├── templates/
-│ └── index.html
-├── static/
-│ └── qr_codes/
-├── requirements.txt
-├── .gitignore
-└── README.md
+    ├── app.py
+    ├── templates/
+    │ └── index.html
+    ├── static/
+    │ └── qr_codes/
+    ├── requirements.txt
+    ├── .gitignore
+    └── README.md
 
