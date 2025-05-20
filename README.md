@@ -42,3 +42,13 @@ Este é um aplicativo web simples feito com **Flask** que permite gerar QR Codes
     ├── .gitignore
     └── README.md
 
+---
+
+## ▶️ Como Rodar Localmente
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/guthi/qr-code-generator.git
+cd qr-code-generator
+
